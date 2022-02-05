@@ -1,0 +1,219 @@
+Type,Value1,Value2
+egg,Breakfast,Vegetarian
+frittata,Breakfast,Vegetarian
+muffin,Breakfast,Vegetarian
+omelet,Breakfast,Vegetarian
+waffle,Breakfast,Vegetarian
+french toast,Breakfast,Vegetarian
+granola,Breakfast,Vegetarian
+jam,Breakfast,Vegetarian
+brunch,Breakfast,Vegetarian
+biscuit,Breakfast,Vegetarian
+parfait,Breakfast,Vegetarian
+oatmeal,Breakfast,Vegetarian
+dutch baby,Breakfast,Vegetarian
+brie,Comfort,Vegetarian
+cheese,Comfort,Vegetarian
+mozzarella,Comfort,Vegetarian
+gouda,Comfort,Vegetarian
+ricotta,Comfort,Vegetarian
+sandwich,Comfort,Vegetarian
+slider,Comfort,Vegetarian
+bibimbap,Comfort,Vegetarian
+wrap,Comfort,Vegetarian
+chips,Comfort,Vegetarian
+onion rings,Comfort,Vegetarian
+fritter,Comfort,Vegetarian
+fries,Comfort,Vegetarian
+butter,Comfort,Vegetarian
+stromboli,Comfort,Vegetarian
+quesadillas,Comfort,Vegetarian
+enchiladas,Comfort,Vegetarian
+wing,Comfort,Vegetarian
+spanakopita,Comfort,Vegetarian
+potsticker,Comfort,Vegetarian
+pot sticker,Comfort,Vegetarian
+casserole,Comfort,Vegetarian
+dumplings,Comfort,Vegetarian
+salsa,Dip/Sauce,Vegetarian
+dip,Dip/Sauce,Vegetarian
+guacamole,Dip/Sauce,Vegetarian
+hummus,Dip/Sauce,Vegetarian
+tzadziki,Dip/Sauce,Vegetarian
+bolognese,Dip/Sauce,Vegetarian
+sauce,Dip/Sauce,Vegetarian
+pesto,Dip/Sauce,Vegetarian
+mango,Salad/Fruit,Vegetarian
+watermelon,Salad/Fruit,Vegetarian
+banana,Salad/Fruit,Vegetarian
+lemons,Salad/Fruit,Vegetarian
+grapes,Salad/Fruit,Vegetarian
+salad,Salad/Fruit,Vegetarian
+kale,Salad/Fruit,Vegetarian
+bread,Grain/Pasta/Starch,Vegetarian
+rolls,Grain/Pasta/Starch,Vegetarian
+bun,Grain/Pasta/Starch,Vegetarian
+naan,Grain/Pasta/Starch,Vegetarian
+knot,Grain/Pasta/Starch,Vegetarian
+focaccia,Grain/Pasta/Starch,Vegetarian
+couscous,Grain/Pasta/Starch,Vegetarian
+rice,Grain/Pasta/Starch,Vegetarian
+quinoa,Grain/Pasta/Starch,Vegetarian
+buckwheat,Grain/Pasta/Starch,Vegetarian
+arroz,Grain/Pasta/Starch,Vegetarian
+pilaf,Grain/Pasta/Starch,Vegetarian
+pasta,Grain/Pasta/Starch,Vegetarian
+gnocchi,Grain/Pasta/Starch,Vegetarian
+tortellini,Grain/Pasta/Starch,Vegetarian
+lasagna,Grain/Pasta/Starch,Vegetarian
+risotto,Grain/Pasta/Starch,Vegetarian
+ravioli,Grain/Pasta/Starch,Vegetarian
+noodle,Grain/Pasta/Starch,Vegetarian
+spaghetti,Grain/Pasta/Starch,Vegetarian
+roti,Grain/Pasta/Starch,Vegetarian
+pizza,Grain/Pasta/Starch,Vegetarian
+potato,Grain/Pasta/Starch,Vegetarian
+yam,Grain/Pasta/Starch,Vegetarian
+potatoe,Grain/Pasta/Starch,Vegetarian
+plantain,Grain/Pasta/Starch,Vegetarian
+soup,Soup,Vegetarian
+bisque,Soup,Vegetarian
+chowder,Soup,Vegetarian
+chili,Soup,Vegetarian
+stew,Soup,Vegetarian
+bean,Veggies/Beans,Vegetarian
+chickpea,Veggies/Beans,Vegetarian
+lentil,Veggies/Beans,Vegetarian
+vegetarian,Veggies/Beans,Vegetarian
+mushroom,Veggies/Beans,Vegetarian
+broccoli,Veggies/Beans,Vegetarian
+brussel,Veggies/Beans,Vegetarian
+asparagus,Veggies/Beans,Vegetarian
+cabbage,Veggies/Beans,Vegetarian
+artichoke,Veggies/Beans,Vegetarian
+tomatoes,Veggies/Beans,Vegetarian
+falafel,Veggies/Beans,Vegetarian
+cauliflower,Veggies/Beans,Vegetarian
+peppers,Veggies/Beans,Vegetarian
+avocado,Veggies/Beans,Vegetarian
+vegetable,Veggies/Beans,Vegetarian
+tomato,Veggies/Beans,Vegetarian
+carrots,Veggies/Beans,Vegetarian
+paneer makhani,Veggies/Beans,Vegetarian
+smoothie,Beverage,Vegetarian
+cocktail,Beverage,Vegetarian
+mint julep,Beverage,Vegetarian
+ice tea,Beverage,Vegetarian
+hot cocaccino,Beverage,Vegetarian
+pina colada,Beverage,Vegetarian
+limeade,Beverage,Vegetarian
+mojito,Beverage,Vegetarian
+martini,Beverage,Vegetarian
+iced tea,Beverage,Vegetarian
+glass,Beverage,Vegetarian
+margarita,Beverage,Vegetarian
+beef,Beef,Meat
+steak,Beef,Meat
+hamburger,Beef,Meat
+chuck,Beef,Meat
+filet mignon,Beef,Meat
+lamb,Beef,Meat
+pot roast,Beef,Meat
+veal,Beef,Meat
+kebab,Beef,Meat
+coq au vin,Beef,Meat
+sloppy joe,Beef,Meat
+moussaka,Beef,Meat
+kenyan pilau,Beef,Meat
+turkey,Poultry,Meat
+chicken,Poultry,Meat
+duck,Poultry,Meat
+goose,Poultry,Meat
+hen,Poultry,Meat
+quail,Poultry,Meat
+thanksgiving,Poultry,Meat
+pork,Pork,Meat
+bacon,Pork,Meat
+prosciutto,Pork,Meat
+ribs,Pork,Meat
+ham,Pork,Meat
+sausages,Pork,Meat
+brat,Pork,Meat
+pancetta,Pork,Meat
+sausage,Pork,Meat
+bacalhau macau,Seafood,Meat
+fish,Seafood,Meat
+tuna,Seafood,Meat
+salmon,Seafood,Meat
+tilapia,Seafood,Meat
+cod,Seafood,Meat
+mussels,Seafood,Meat
+clams,Seafood,Meat
+shrimp,Seafood,Meat
+caviar,Seafood,Meat
+crab,Seafood,Meat
+prawn,Seafood,Meat
+scallops,Seafood,Meat
+mackerel,Seafood,Meat
+paella,Seafood,Meat
+seafood,Seafood,Meat
+halibut,Seafood,Meat
+basa,Seafood,Meat
+sardine,Seafood,Meat
+peach melba clafoutis,Dessert,Vegetarian
+ice cream,Dessert,Vegetarian
+cookie,Dessert,Vegetarian
+cake,Dessert,Vegetarian
+cinnamon twists,Dessert,Vegetarian
+chocolate,Dessert,Vegetarian
+pie,Dessert,Vegetarian
+brownie,Dessert,Vegetarian
+mint,Dessert,Vegetarian
+scone,Dessert,Vegetarian
+peppermint,Dessert,Vegetarian
+crepe,Dessert,Vegetarian
+panna cotta,Dessert,Vegetarian
+popsicle,Dessert,Vegetarian
+caramel,Dessert,Vegetarian
+candied,Dessert,Vegetarian
+candy,Dessert,Vegetarian
+shake,Dessert,Vegetarian
+fudge,Dessert,Vegetarian
+egg nog,Dessert,Vegetarian
+custard,Dessert,Vegetarian
+pudding,Dessert,Vegetarian
+s'more,Dessert,Vegetarian
+tart,Dessert,Vegetarian
+brulee,Dessert,Vegetarian
+alaska,Dessert,Vegetarian
+sorbet,Dessert,Vegetarian
+dulce de leche,Dessert,Vegetarian
+peach melba,Dessert,Vegetarian
+bars,Dessert,Vegetarian
+dessert,Dessert,Vegetarian
+brown betty,Dessert,Vegetarian
+squares,Dessert,Vegetarian
+gingersnaps,Dessert,Vegetarian
+ice pop,Dessert,Vegetarian
+doughnuts,Dessert,Vegetarian
+turnover,Dessert,Vegetarian
+toffee,Dessert,Vegetarian
+tiramisu,Dessert,Vegetarian
+compote,Dessert,Vegetarian
+sugar,Dessert,Vegetarian
+croissant,Dessert,Vegetarian
+frosting,Dessert,Vegetarian
+sandies,Dessert,Vegetarian
+trifle,Dessert,Vegetarian
+crisp,Dessert,Vegetarian
+cannoli,Dessert,Vegetarian
+crumble,Dessert,Vegetarian
+cobbler,Dessert,Vegetarian
+cracker,Dessert,Vegetarian
+horn,Dessert,Vegetarian
+plum,Dessert,Vegetarian
+pastries,Dessert,Vegetarian
+flan,Dessert,Vegetarian
+beignet,Dessert,Vegetarian
+marshmallow,Dessert,Vegetarian
+strawberry,Dessert,Vegetarian
