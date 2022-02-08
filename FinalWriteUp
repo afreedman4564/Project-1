@@ -1,0 +1,26 @@
+Food, Glorious Food
+	Food is something everyone can relate to. When looking through various data sets and API’s, our group came across Spoonacular. This API allowed us to go through various recipes and pull data from them, including protein, fat and calories. After parsing through all the data and writing code to get randomized recipes, we were able to come up with the following questions we wanted answered:
+1.	Do cost and protein have a relationship?
+2.	Do vegetarian recipes and protein have a negative relationship?
+3.	What are the relationships between health score and various nutrients?
+4.	Do healthier foods and recipes have higher costs?
+5.	Which types of foods have the highest costs?
+Protein vs Cost
+•	To determine the relationship between protein and cost, we used heat maps and an r-squared analysis
+•	With an r squared of .52, just over half of our inputs fit our regression model
+•	We can conclude that the amount of protein does not overall directly correlate to increased costs of food and recipes
+Vegetarian Recipes vs Protein
+•	For this comparison we looked at recipes containing various proteins vs grain, pasta and starch recipes, as well as desserts.
+•	We used t-tests to look at how different the recipes were when it came to protein
+•	Recipes that featured seafood had the lowest difference in protein vs vegetarian dishes, while poultry had the highest
+•	With the low p score were able to establish, we can say that vegetarian recipes did in large part lack the high number of protein compared to beef, pork, seafood and poultry
+Health vs Other Nutrients
+•	To look at health we used the already established “health score” data we gathered from Spoonacular
+•	The r-squared model we used compared protein, fat and calories to health score
+•	With r-squared values below .1, fat and calories did not contribute much if anything to the health score function used by Spoonacular
+Health vs Cost
+•	The r-squared model used for this also showed a small correlation between the cost of food and Health Score
+•	The reason the data may look like this is because of potentially subjective data or outliers
+Food Type vs Costs
+•	The Heat map indicated the best way to pinpoint which types of food were most expensive
+•	Beef, Seafood and Dips/Sauces were the highest costs
